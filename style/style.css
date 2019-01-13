@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+*{margin:0px; padding:0px;}
+.page {width:960px; height:auto; margin:0px auto; font-size:14px; font-family:"微软雅黑";}
+.header,.logo,.main,.nav,h1,.footer,p {width:100%; height:auto; float:left;}
+h1,.footer{ background:#0CF;}
+.menu,h1,.footer,.nav {line-height:30px;}
+.menu {width:40%; height:auto; text-align:center; margin:0px 30%;}
+h1{font-weight:normal; font-size:14px;}
+p{font-size:12px; line-height:180%; margin:10px 0px;}
+.btn {width:20%; float:left;}
+.footer{ text-align:center;}
+.list{line-height:25px; font-size:12px;}
+.box{ width:468px; height:auto; float:left; margin:0px 20px 20px 0px; border:solid 1px #0CF;}
+span{font-size:10px; color:#666;}
